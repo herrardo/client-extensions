@@ -56,4 +56,4 @@ const editorConfigTransformer = (config) => {
 const editorTransformer = {
     editorConfigTransformer,
 };
-export default editorTransformer;
+// export default editorTransformer;
